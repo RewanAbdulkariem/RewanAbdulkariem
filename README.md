@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rewan Abdulkariem</h1>
 <h3 align="center">A passionate Embedded system software engineer</h3>
-
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rewanabdulkariem&label=Profile%20views&color=0e75b6&style=flat" alt="rewanabdulkariem" /> </p>
 
 - 📫 How to reach me **rewan.khaled21@gmail.com**
