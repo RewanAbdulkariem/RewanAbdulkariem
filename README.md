@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rewan Abdulkariem</h1>
-<h3 align="center">A passionate Embedded system software engineer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=An%20enthusiast%20in%20embedded%20systems;Always%20eager%20to%20learn.&font=Roboto&center=true&width=500&height=60&color=C18BFA&vCenter=true&size=24">
+  </a>
+</p>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </div>
