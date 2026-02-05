@@ -3,7 +3,7 @@
 # 👩‍💻 Rewan Abdulkariem  
 ### QA Engineer | Quality Through Critical Thinking
 
-*"I don’t just verify requirements — I question assumptions."*
+*"I don’t just verify requirements — I question assumptions. "*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rewan_Abdulkariem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rewan-abdulkariem-9587a2193/)
 [![Email](https://img.shields.io/badge/Email-rewan.khaled2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rewan.khaled2001@gmail.com)
