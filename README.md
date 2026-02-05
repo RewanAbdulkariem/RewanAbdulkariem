@@ -29,7 +29,7 @@ I approach testing as an analytical process — understanding the system, questi
 
 ## 💼 Experience
 
-### **QA Engineer** — Quad Insight *(Remote)*  
+### **QC Engineer** — Quad Insight *(Remote)*  
 **2025 – Present**
 
 Working on production systems serving real users:
